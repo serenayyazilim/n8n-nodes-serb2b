@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-serb2b",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "n8n nodes for SerB2B e-commerce platform",
   "keywords": [
     "n8n-community-node-package",
