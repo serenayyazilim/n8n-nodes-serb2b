@@ -3,17 +3,24 @@
   "version": "0.1.0",
   "description": "n8n nodes for SerB2B e-commerce platform",
   "keywords": [
-    "n8n-community-node-package"
+    "n8n-community-node-package",
+    "n8n",
+    "serb2b",
+    "ecommerce",
+    "e-commerce",
+    "workflow",
+    "automation",
+    "integration"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/your-org/n8n-nodes-serb2b",
+  "homepage": "https://github.com/serenayyazilim/n8n-nodes-serb2b",
   "author": {
     "name": "SerB2B",
     "email": "support@serb2b.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-org/n8n-nodes-serb2b.git"
+    "url": "git+https://github.com/serenayyazilim/n8n-nodes-serb2b.git"
   },
   "main": "index.js",
   "scripts": {
